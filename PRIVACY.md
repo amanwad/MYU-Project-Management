@@ -40,4 +40,4 @@ Our services are not directed to children under 13, and we do not knowingly coll
 We may update this policy; the effective date above will change when we do.
 
 ## Contact
-MYU Project Management LLC · Email: [CONTACT EMAIL] · Phone: [BUSINESS PHONE]
+MYU Project Management LLC · Email: [myuprojectmanagement@gmail.com](mailto:myuprojectmanagement@gmail.com) · Phone: [(978) 844-7400](tel:+19788447400) · Address: 8700 Stonebrook Pkwy, Unit 309, Frisco, TX 75034

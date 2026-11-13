@@ -13,7 +13,7 @@ MYU provides HVAC business software, CRM management, project management, schedul
 - **Frequency:** Message frequency varies based on your project and requests.
 - **Cost:** Message and data rates may apply.
 - **Opt-out:** Reply **STOP** to any message to unsubscribe. You will receive one confirmation message and no further messages unless you opt in again.
-- **Help:** Reply **HELP** or contact us at [CONTACT EMAIL].
+- **Help:** Reply **HELP** or contact us at [myuprojectmanagement@gmail.com](mailto:myuprojectmanagement@gmail.com).
 - **Carriers** are not liable for delayed or undelivered messages.
 - See our [Privacy Policy](PRIVACY.md) for how we handle your information.
 
@@ -30,4 +30,4 @@ Services are provided as described in your agreement. To the extent permitted by
 We may update these terms; the effective date above will change when we do.
 
 ## Contact
-MYU Project Management LLC · Email: [CONTACT EMAIL] · Phone: [BUSINESS PHONE]
+MYU Project Management LLC · Email: [myuprojectmanagement@gmail.com](mailto:myuprojectmanagement@gmail.com) · Phone: [(978) 844-7400](tel:+19788447400) · Address: 8700 Stonebrook Pkwy, Unit 309, Frisco, TX 75034

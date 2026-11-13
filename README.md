@@ -36,6 +36,9 @@ This repository is the company's official source of truth and public business we
 | **Stage** | Early stage — exploring and validating revenue avenues |
 | **Current focus** | HVAC operations software · CRM management |
 | **Website** | https://github.com/amanwad/MYU-Project-Management |
+| **Email** | myuprojectmanagement@gmail.com |
+| **Phone** | (978) 844-7400 |
+| **Address** | 8700 Stonebrook Pkwy, Unit 309, Frisco, TX 75034 |
 
 ## What We Do
 
