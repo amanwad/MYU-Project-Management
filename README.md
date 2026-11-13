@@ -114,9 +114,9 @@ and [Terms of Service](TERMS.md) for details.
 ## Contact
 
 **MYU Project Management LLC**
-- Email: [CONTACT EMAIL]
-- Phone: [BUSINESS PHONE]
-- Mailing address: [BUSINESS ADDRESS]
+- Email: myuprojectmanagement@gmail.com
+- Phone: (978)-844-7400
+- Mailing address: 8700 Stonebrook Pkwy, Unit 309, Frisco TX, 75034
 
 Questions, partnership ideas or project inquiries are welcome.
 
