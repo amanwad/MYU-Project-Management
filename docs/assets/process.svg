@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Our process: Discover, Plan, Build, Launch, Support">
+  <rect width="1200" height="260" rx="24" fill="#F8FAFC"/>
+  <line x1="140" y1="110" x2="1060" y2="110" stroke="#CBD5E1" stroke-width="4" stroke-dasharray="10 8"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(140 110)">
+      <circle r="50" fill="#0F2A4A"/><text y="12" font-size="34" font-weight="700" fill="#fff">1</text>
+      <text y="92" font-size="22" font-weight="700" fill="#0F2A4A">Discover</text>
+      <text y="120" font-size="15" fill="#475569">Your workflow &amp; tools</text>
+    </g>
+    <g transform="translate(370 110)">
+      <circle r="50" fill="#115E75"/><text y="12" font-size="34" font-weight="700" fill="#fff">2</text>
+      <text y="92" font-size="22" font-weight="700" fill="#0F2A4A">Plan</text>
+      <text y="120" font-size="15" fill="#475569">Scope, timeline &amp; budget</text>
+    </g>
+    <g transform="translate(600 110)">
+      <circle r="50" fill="#0F766E"/><text y="12" font-size="34" font-weight="700" fill="#fff">3</text>
+      <text y="92" font-size="22" font-weight="700" fill="#0F2A4A">Build</text>
+      <text y="120" font-size="15" fill="#475569">Configure software &amp; CRM</text>
+    </g>
+    <g transform="translate(830 110)">
+      <circle r="50" fill="#14B8A6"/><text y="12" font-size="34" font-weight="700" fill="#fff">4</text>
+      <text y="92" font-size="22" font-weight="700" fill="#0F2A4A">Launch</text>
+      <text y="120" font-size="15" fill="#475569">Migrate data &amp; train team</text>
+    </g>
+    <g transform="translate(1060 110)">
+      <circle r="50" fill="#F59E0B"/><text y="12" font-size="34" font-weight="700" fill="#0F2A4A">5</text>
+      <text y="92" font-size="22" font-weight="700" fill="#0F2A4A">Support</text>
+      <text y="120" font-size="15" fill="#475569">Optimize &amp; improve</text>
+    </g>
+  </g>
+</svg>
